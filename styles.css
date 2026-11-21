@@ -1,0 +1,9 @@
+/* 插件专属样式：统一使用 x-starter- 前缀，避免污染内置界面。
+   token 来自 docs/DESIGN_SYSTEM.md / css/app.css。 */
+.x-starter-out {
+  font-family: var(--mono, ui-monospace, monospace);
+  color: var(--ink-2);
+  background: var(--hover);
+  border-radius: 8px;
+  padding: 8px 10px;
+}

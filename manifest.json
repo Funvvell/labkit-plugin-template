@@ -1,0 +1,13 @@
+{
+  "id": "starter",
+  "name": "入门示例工具扩展",
+  "version": "1.1.0",
+  "description": "一个示例工具，演示 LabKit 工具扩展契约（只注册工具，不注册卡片）",
+  "author": "Funvvell",
+  "repo": "Funvvell/labkit-plugin-template",
+  "minAppVersion": "0.4.0",
+  "kind": "tool",
+  "main": "main.js",
+  "styles": "styles.css",
+  "sha256": "f31a686d62564e2705cb063ef4f49ef673c29a0ce543dc0dbab63086ad28e4da"
+}
